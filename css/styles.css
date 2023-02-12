@@ -1,0 +1,21 @@
+body {
+    background-color: #ECF9FF;
+}
+hr {
+    border-style: none;
+    height: 2px;
+    width: 8%;
+    border-top: dotted 8px rgb(233, 231, 231);
+}
+
+h1 {
+    color: #3C84AB;
+}
+
+h3 {
+    color: #609EA2;
+}
+
+.smiley-face:hover {
+    background-color: red;
+}
